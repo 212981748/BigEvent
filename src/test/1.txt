@@ -1,0 +1,6 @@
+mvn install:install-file
+-Dfile=D:\maven\apache-maven-3.9.6\bin\jjwt-0.9.1.jar
+-DgroupId=io.jsonwebtoken
+-DartifactId=jjwt
+-Dversion=0.9.1
+-Dpackaging=jar
